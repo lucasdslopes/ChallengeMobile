@@ -1,5 +1,5 @@
-#InovaX
-#DESCRIÇÃO DO PROJETO
+<h1>InovaX</h1>h1>
+<h2>DESCRIÇÃO DO PROJETO</h2>
 Nós do grupo InovaX pretende fazer um serviço de uma plataforma de comparação de preços e avaliações inovadora que vai além do tradicional.
 Enquanto os comparadores de preços e avaliações atuais focam principalmente em produtos, nosso diferencial está na inclusão de serviços essenciais, como planos de saúde, 
 planos de internet e outros tipos de assinaturas.O objetivo é fornecer ao usuário uma visão completa e detalhada tanto de produtos quanto de serviços, facilitando
